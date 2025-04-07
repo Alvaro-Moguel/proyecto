@@ -16,7 +16,7 @@ const Home = () => {
         <p>
           Residencial Los Robles es un fraccionamiento de lujo ubicado en una zona tranquila y segura. Con acceso
           a todas las comodidades modernas y un entorno natural inigualable, nuestros residentes disfrutan de una
-          vida cómoda y relajante. Ven y descubre por qué somos la mejor opción para vivir en la ciudad.
+          vida cómoda y relajante. Ven y descubre por qué somos la mejor opción para vivir.
         </p>
       </div>
     </div>
@@ -26,3 +26,4 @@ const Home = () => {
 export default Home;
 
 //Cambio 1
+//Cambio 2
