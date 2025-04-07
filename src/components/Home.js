@@ -18,12 +18,10 @@ const Home = () => {
           a todas las comodidades modernas y un entorno natural inigualable, nuestros residentes disfrutan de una
           vida cómoda y relajante. Ven y descubre por qué somos la mejor opción para vivir.
         </p>
+
       </div>
     </div>
   );
 };
 
 export default Home;
-
-//Cambio 1
-//Cambio 2
